@@ -1,5 +1,5 @@
 # NodeMCU
-NodeMCU code for attendance system
+Smart Attenance System
 https://www.youtube.com/channel/UCGBadxFJMTPJj3fQK02E0Wg
 
 
